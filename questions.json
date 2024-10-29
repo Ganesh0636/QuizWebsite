@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "a": "Mumbai",
+    "b": "New Delhi",
+    "c": "Kolkata",
+    "d": "Bangalore",
+    "correct": "b"
+  },
+  {
+    "question": "Which Indian festival is known as the Festival of Lights?",
+    "a": "Holi",
+    "b": "Diwali",
+    "c": "Eid",
+    "d": "Christmas",
+    "correct": "b"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "a": "Jawaharlal Nehru",
+    "b": "Mahatma Gandhi",
+    "c": "B. R. Ambedkar",
+    "d": "Sardar Patel",
+    "correct": "b"
+  },
+  {
+    "question": "Which river is considered the holiest river in India?",
+    "a": "Yamuna",
+    "b": "Ganga",
+    "c": "Godavari",
+    "d": "Krishna",
+    "correct": "b"
+  },
+  {
+    "question": "Which state is known as the 'Land of Five Rivers'?",
+    "a": "Haryana",
+    "b": "Punjab",
+    "c": "Gujarat",
+    "d": "West Bengal",
+    "correct": "b"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "a": "Lion",
+    "b": "Tiger",
+    "c": "Elephant",
+    "d": "Peacock",
+    "correct": "b"
+  },
+  {
+    "question": "Who wrote the Indian national anthem?",
+    "a": "Rabindranath Tagore",
+    "b": "Bankim Chandra Chatterjee",
+    "c": "Sarojini Naidu",
+    "d": "Lata Mangeshkar",
+    "correct": "a"
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "a": "1942",
+    "b": "1945",
+    "c": "1947",
+    "d": "1950",
+    "correct": "c"
+  },
+  {
+    "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+    "a": "Hyderabad",
+    "b": "Bangalore",
+    "c": "Chennai",
+    "d": "Pune",
+    "correct": "b"
+  },
+  {
+    "question": "What is the official currency of India?",
+    "a": "Dollar",
+    "b": "Rupee",
+    "c": "Pound",
+    "d": "Yen",
+    "correct": "b"
+  }
+]
